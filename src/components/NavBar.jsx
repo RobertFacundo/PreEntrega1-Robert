@@ -26,9 +26,9 @@ const NavBar = () => {
                     <NavLink className="navbar-item p-5 mr-3" to="/category/Exterior">Exterior</NavLink>
                 </div>
                 <div className="navbar-end">
-                    <div className="navbar-item mr-6 mt-3">
+                    <NavLink className="navbar-item mr-6 mt-3" to="/checkOut">
                         <CarWidget />
-                    </div>
+                    </NavLink>
                 </div>
             </div>
         </nav>
