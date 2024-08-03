@@ -6,6 +6,7 @@ La aplicación utiliza Firebase para gestionar la persistencia de datos y el alm
 para mantener el carrito del usuario incluso después de recargar la página. 
 Además, se emplea la biblioteca Bulma para el diseño y la interfaz de usuario, 
 proporcionando un aspecto moderno y responsivo. SweetAlert se utiliza para mostrar alertas informativas y de error de manera elegante.
+Ademas utilice nom run build ya que subi el proyecto a netlify para sumarlo a mi portfolio => https://robertfacundo.netlify.app/
 
 Funcionalidades
 
