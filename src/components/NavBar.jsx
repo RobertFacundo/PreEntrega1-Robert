@@ -7,7 +7,7 @@ const NavBar = () => {
         <nav className="navbar has-text-danger-dark" role="navigation" aria-label="main navigation">
             <div className="navbar-brand">
                 <NavLink className="navbar-item is-flex-direction-column" to="/">
-                    <img src="../public/cabin.png" alt="" />
+                    <img src="/cabin.png" alt="" />
                     <span className="mt-1"> Robert</span>
                 </NavLink>
                 <a role="button" className="navbar-burger" aria-label="menu" aria-expanded="false" data-target="navbarBasicExample">
